@@ -367,7 +367,7 @@ li{
 
     .last-child{
         background: #BFA55E;
-        padding: 51px 60px 51px 50px;
+        padding: 39px 60px 39px 50px;
         line-height: 100px;
         text-transform: uppercase;
         height: 80%;
@@ -1894,7 +1894,7 @@ h2 {
 }
 
 @media (max-width: 400px){
-  .top-margin{
-    margin-top: 178px !important;
-}
-}
+    .top-margin{
+      margin-top: 178px !important;
+  }
+  }
