@@ -1892,3 +1892,9 @@ h2 {
         height: 28em !important;
     }*/
 }
+
+@media (max-width: 400px){
+  .top-margin{
+    margin-top: 178px !important;
+}
+}
